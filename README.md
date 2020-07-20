@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is [Kush Daga](https://kushdaga.webflow.io), also known as [dev_kid](https://instagram.com/dev_kid). I'm a full stack web developer with interest in fields like 3D animation and gaming, Blockchain, Finance, Design and animations. I'm proud to say that **I can succesfully center an element with css.** I am good with animations and creative processes to make this journey a lot more fun.
 
-Here are some ideas to get you started:
+More about me:
 
 - 🔭 I’m currently working on ... [GetBuzz Frontend](https://getbuzz.in) and [Upmesh Lead Dev (contract)](https://upmesh.io)
 - 🌱 I’m currently learning ... Framer Motion for React, Advanced Concepts in Node.js, Deno, Designing a Gundam on Blender
