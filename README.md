@@ -3,7 +3,7 @@ My name is [Kush Daga](https://kushdaga.webflow.io), also known as [dev_kid](htt
 
 More about me:
 
-- 🔭 I’m currently working on ... [GetBuzz Frontend](https://getbuzz.in) and [Upmesh Lead Dev (contract)](https://upmesh.io)
+- 🔭 I’m currently working on ... [FanSee Frontend](https://fansee.in) and [Upmesh Lead Dev (contract)](https://upmesh.io)
 - 🌱 I’m currently learning ... Framer Motion for React, Advanced Concepts in Node.js, Deno, Designing a Gundam on Blender
 - 👯 I’m looking to collaborate on ... Anything, Im very cheerful :)
 - 🤔 I’m looking for help with ... Blender complex modelling
