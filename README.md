@@ -15,6 +15,8 @@ More about me:
 ### My WakaTime Stats for the Week
 <!--START_SECTION:waka-->
 ```text
+Week: 07 August, 2020 - 14 August, 2020
+
 JavaScript   7 hrs 51 mins   ███████████████████████░░   93.54 % 
 Other        16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
 JSON         8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
