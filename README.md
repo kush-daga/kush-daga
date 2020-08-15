@@ -13,5 +13,11 @@ More about me:
 - ⚡ Fun fact: ... Spread operator is the best way to copy an array in JS, without having to deal with changes in the original array (when changing the new one) :)
 
 <!--START_SECTION:waka-->
-
+```text
+JavaScript   7 hrs 51 mins   ███████████████████████░░   93.54 % 
+Other        16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+JSON         8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+CSS          7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+```
 <!--END_SECTION:waka-->
