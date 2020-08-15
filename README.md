@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 My name is [Kush Daga](https://kushdaga.webflow.io), also known as [dev_kid](https://instagram.com/dev_kid). I'm a full stack web developer with interest in fields like 3D animation and gaming, Blockchain, Finance, Design and animations. I'm proud to say that **I can succesfully center an element using css.** I am good with animations and creative processes that make the journey a lot more fun.
 
 More about me:
@@ -12,7 +12,7 @@ More about me:
 - 😄 Pronouns: ... He/Him/Hum
 - ⚡ Fun fact: ... Spread operator is the best way to copy an array in JS, without having to deal with changes in the original array (when changing the new one) :)
 
-My WakaTime Stats for the Week
+### My WakaTime Stats for the Week
 <!--START_SECTION:waka-->
 ```text
 JavaScript   7 hrs 51 mins   ███████████████████████░░   93.54 % 
