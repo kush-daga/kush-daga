@@ -15,12 +15,12 @@ More about me:
 ### My WakaTime Stats for the Week
 <!--START_SECTION:waka-->
 ```text
-Week: 13 August, 2020 - 20 August, 2020
+Week: 14 August, 2020 - 21 August, 2020
 
-JavaScript   13 hrs 59 mins  ████████████████████████▒   96.83 % 
-Other        18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-JSON         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
-CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+JavaScript   16 hrs 15 mins  ████████████████████████▒   97.32 % 
+Other        20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+JSON         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 ```
 <!--END_SECTION:waka-->
