@@ -12,7 +12,7 @@ More about me:
 - 😄 Pronouns: ... He/Him/Hum
 - ⚡ Fun fact: ... Spread operator is the best way to copy an array in JS, without having to deal with changes in the original array (when changing the new one) :)
 
-### My WakaTime Stats for the Week
+### My WakaTime Stats for this Week!
 <!--START_SECTION:waka-->
 ```text
 Week: 18 August, 2020 - 25 August, 2020
