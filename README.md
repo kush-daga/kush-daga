@@ -15,12 +15,12 @@ More about me:
 ### My WakaTime Stats for this Week!
 <!--START_SECTION:waka-->
 ```text
-Week: 26 August, 2020 - 02 September, 2020
+Week: 27 August, 2020 - 03 September, 2020
 
-JavaScript   10 hrs 36 mins  ████████████████▒░░░░░░░░   65.19 % 
-TypeScript   3 hrs 29 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.50 % 
-JSON         1 hr 49 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-HTML         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
-GraphQL      6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+JavaScript   9 hrs 36 mins   ███████████████▓░░░░░░░░░   62.94 % 
+TypeScript   3 hrs 29 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.89 % 
+JSON         1 hr 49 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+HTML         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+GraphQL      6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 ```
 <!--END_SECTION:waka-->
