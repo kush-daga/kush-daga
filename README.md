@@ -15,7 +15,7 @@ More about me:
 ### My WakaTime Stats for this Week!
 <!--START_SECTION:waka-->
 ```text
-Week: 05 September, 2020 - 12 September, 2020
+Week: 06 September, 2020 - 13 September, 2020
 
 Rust         44 mins         █████████▓░░░░░░░░░░░░░░░   38.11 % 
 JavaScript   39 mins         ████████▒░░░░░░░░░░░░░░░░   33.60 % 
