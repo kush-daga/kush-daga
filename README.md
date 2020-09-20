@@ -15,7 +15,7 @@ More about me:
 ### My WakaTime Stats for this Week!
 <!--START_SECTION:waka-->
 ```text
-Week: 11 September, 2020 - 18 September, 2020
+Week: 12 September, 2020 - 19 September, 2020
 
 JavaScript   2 hrs 53 mins   █████████████████████████   99.98 % 
 ```
