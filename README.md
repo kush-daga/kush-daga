@@ -1,8 +1,6 @@
 ## Hi there 👋
 My name is [Kush Daga](https://kushdaga.webflow.io), also known as [dev_kid](https://instagram.com/dev_kid). I'm a full stack web developer with interest in fields like 3D animation and gaming, Blockchain, Finance, Design and animation. I'm proud to say that **I can succesfully center an element using css.** I am good with animations and creative processes that make the journey a lot more fun.
-
 ![](https://komarev.com/ghpvc/?username=kush-daga&style=flat-square&color=red)
-
 <br></br>
 More about me:
 
