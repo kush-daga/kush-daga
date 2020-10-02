@@ -10,7 +10,7 @@ More about me:
 - 👯 I’m looking to collaborate on ... Anything, Im very cheerful :)
 - 🤔 I’m looking for help with ... Algorithms, PLEASE
 - 💬 Ask me about ... React is my forte, but ask me about anything, if I dont know, Ill search for it with you! 
-- 📫 How to reach me: ... kushdaga@icloud.com
+- 📫 How to reach me: ... kushdaga@hey.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Spread operator is the best way to copy an array in JS, without having to deal with changes in the original array (when changing the new one) :)
 
