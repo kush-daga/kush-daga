@@ -17,7 +17,7 @@ More about me:
 ### My WakaTime Stats for this Week!
 <!--START_SECTION:waka-->
 ```text
-Week: 16 October, 2020 - 23 October, 2020
+Week: 17 October, 2020 - 24 October, 2020
 
 JavaScript   1 hr 56 mins    ████████████████░░░░░░░░░   64.40 % 
 JSX          1 hr 1 min      ████████▒░░░░░░░░░░░░░░░░   33.75 % 
