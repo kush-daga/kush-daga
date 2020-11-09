@@ -5,7 +5,7 @@ My name is [Kush Daga](https://kushdaga.webflow.io), also known as [dev_kid](htt
 <br></br>
 More about me:
 
-- 🔭 I’m currently working on ... [FanSee Frontend](https://fansee.in) and [Upmesh Lead Dev (contract)](https://upmesh.io)
+- 🔭 I’m currently working on ... [Pepper Content](https://peppercontent.in) and [Upmesh Lead Dev (contract)](https://upmesh.io)
 - 🌱 I’m currently learning ... GraphQL, Framer Motion for React, Advanced Concepts in Node.js, Deno,Blender
 - 👯 I’m looking to collaborate on ... Anything, Im very cheerful :)
 - 🤔 I’m looking for help with ... Algorithms, PLEASE
