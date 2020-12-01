@@ -17,12 +17,12 @@ More about me:
 ### My WakaTime Stats for this Week!
 <!--START_SECTION:waka-->
 ```text
-Week: 22 November, 2020 - 29 November, 2020
+Week: 23 November, 2020 - 30 November, 2020
 
-TypeScript   5 hrs 38 mins   █████████████████▒░░░░░░░   69.47 % 
-SCSS         1 hr 5 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-JavaScript   35 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
-NASM         22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-JSON         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+TypeScript   3 hrs 56 mins   █████████████▓░░░░░░░░░░░   54.44 % 
+JavaScript   53 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+SCSS         52 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+JSX          38 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+NASM         22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
 ```
 <!--END_SECTION:waka-->
