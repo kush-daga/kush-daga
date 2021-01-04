@@ -17,12 +17,12 @@ More about me:
 ### My WakaTime Stats for this Week!
 <!--START_SECTION:waka-->
 ```text
-Week: 26 December, 2020 - 02 January, 2021
+Week: 27 December, 2020 - 03 January, 2021
 
-JavaScript   4 hrs 25 mins   ███████████▒░░░░░░░░░░░░░   45.76 % 
-TypeScript   4 hrs 12 mins   ███████████░░░░░░░░░░░░░░   43.57 % 
-SCSS         43 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
-JSON         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
-JSX          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+JavaScript   4 hrs 38 mins   ███████████▓░░░░░░░░░░░░░   46.65 % 
+TypeScript   4 hrs 12 mins   ██████████▓░░░░░░░░░░░░░░   42.35 % 
+SCSS         43 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+JSON         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+JSX          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 ```
 <!--END_SECTION:waka-->
