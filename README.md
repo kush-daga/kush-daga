@@ -17,7 +17,7 @@ More about me:
 ### My WakaTime Stats for this Week!
 <!--START_SECTION:waka-->
 ```text
-Week: 14 January, 2021 - 21 January, 2021
+Week: 15 January, 2021 - 22 January, 2021
 
 JavaScript   2 hrs 31 mins   █████████████████████████   100.00 % 
 ```
