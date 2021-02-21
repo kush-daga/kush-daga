@@ -17,8 +17,6 @@ More about me:
 ### My WakaTime Stats for this Week!
 <!--START_SECTION:waka-->
 ```text
-Week: 12 February, 2021 - 19 February, 2021
-
-
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
