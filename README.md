@@ -17,7 +17,7 @@ More about me:
 ### My WakaTime Stats for this Week!
 <!--START_SECTION:waka-->
 ```text
-Week: 17 February, 2021 - 24 February, 2021
+Week: 18 February, 2021 - 25 February, 2021
 
 TypeScript   9 hrs 47 mins   ███████████████████████▒░   92.70 % 
 JSX          37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
