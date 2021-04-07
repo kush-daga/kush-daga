@@ -17,10 +17,10 @@ More about me:
 ### My WakaTime Stats for this Week!
 <!--START_SECTION:waka-->
 ```text
-Week: 29 March, 2021 - 05 April, 2021
+Week: 30 March, 2021 - 06 April, 2021
 
-TypeScript   20 hrs 55 mins  ██████████████████████░░░   88.52 % 
-JavaScript   2 hrs 29 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
-JSON         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+TypeScript   23 hrs 20 mins  ██████████████████████▓░░   91.19 % 
+JavaScript   2 hrs 2 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+JSON         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 ```
 <!--END_SECTION:waka-->
