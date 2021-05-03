@@ -18,7 +18,7 @@ My name is [Kush Daga](https://kushdaga.webflow.io), also known as [dev_kid](htt
 ## My Work
 I have mostly worked with Frontend technologies, like React, NextJS and Svelte (still learning) using mainly typescript as my first language of choice, most of my work revolves around this domain, however I have also started tinkering around with GraphQL and NodeJs alot more :)
 
-### Current Work
+### Current Work:
 
  **Hallparty** - Working with Assist as their lead frontend developer for the web and app of thier product [Hallparty](https://hallparty.app) - A social media app for colleges and communities. My work involves dealing with alot of complex architecture in frontend to ensure smooth user experience on the platform. Technologies used in the platform are as follows 
  - NextJs and ReactNative: For building the website and the app.
