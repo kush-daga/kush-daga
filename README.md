@@ -37,7 +37,7 @@ I have mostly worked with Frontend technologies, like React, NextJS and Svelte (
 
 ### Private Work: 
  - [Worked on creating the buyer and seller dashboard for Upmesh - A singapore based startup](https://upmesh.io)
- - Interned with the frontend team of [Pepper](https://www.peppercontent.io/) and helped refactor thier website and also helped build the product (PepperType)[https://peppertype.ai] handling the complete frontend architecture, till I was working there.
+ - Interned with the frontend team of [Pepper](https://www.peppercontent.io/) and helped refactor thier website and also helped build the product [PepperType](https://peppertype.ai) handling the complete frontend architecture, till I was working there.
  - [Helped analyze various Drag and Drop libraries and made a small ETL layer for DataChannel to perform transformations with a very simple drag and drop interface](https://datachannel.co/)
  - [A short term lead frontend role for Fansee (built the entire platform from scratch) - A startup aiming to build celebrity experiences to people, with more than 150 celebs signed up](https://fansee.in) (NOTE: The website might be down now)
  - A buying selling platform for my college (inspired by OLX) to help ease the process - WIP
