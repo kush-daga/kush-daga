@@ -20,7 +20,7 @@ I have mostly worked with Frontend technologies, like React, NextJS and Svelte (
 
 ### Current Work:
 
- **Hallparty** - Working with Assist as their lead frontend developer for the web and app of their product [Hallparty](https://hallparty.app) - A social media app for colleges and communities. My work involves dealing with alot of complex architecture in frontend to ensure smooth user experience on the platform. Technologies used in the platform are as follows 
+ _**Hallparty**_ - Working with Assist as their lead frontend developer for the web and app of their product [Hallparty](https://hallparty.app) - A social media app for colleges and communities. My work involves dealing with alot of complex architecture in frontend to ensure smooth user experience on the platform. Technologies used in the platform are as follows 
  - NextJs and ReactNative: For building the website and the app.
  - WatermelonDB: Async fast storage solution for keeping the chats.
  - XmppJs and Ejabberd: For socket connections and maintaining the chats.
@@ -29,7 +29,7 @@ I have mostly worked with Frontend technologies, like React, NextJS and Svelte (
  - Redux Toolkit : The state management library for the project.
  - Custom hooks and Api builder Classes: For managing api calls and other effects in components.
 
-**Swank** - Working on a project for building a small documentation based social media app that motivates users to participate in challenges like 100daysofcode and keep them motivated by rewarding consistency and having a feed to track the progress of themselves and get motivated by progress of others. A solution that involves the Feed structure similar to twitter but in depth knowledge of the post in a format similar to hashnode and incentives similar to snapchat's streaks. Tech used - Nextjs with prisma and GiraphQL
+_**Swank**_ - Working on a project for building a small documentation based social media app that motivates users to participate in challenges like 100daysofcode and keep them motivated by rewarding consistency and having a feed to track the progress of themselves and get motivated by progress of others. A solution that involves the Feed structure similar to twitter but in depth knowledge of the post in a format similar to hashnode and incentives similar to snapchat's streaks. Tech used - Nextjs with prisma and GiraphQL
 
 ### Templates that I made:
  - [NextJs, Prisma, GiraphQL, Apollo, GrpahQL Helix - Full Stack template to get started with web applications](https://github.com/kush-daga/Next-Prisma-GraphQL-Template)
