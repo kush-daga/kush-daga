@@ -20,7 +20,7 @@ I have mostly worked with Frontend technologies, like React, NextJS and Svelte (
 
 ### Current Work:
 
- **Hallparty** - Working with Assist as their lead frontend developer for the web and app of thier product [Hallparty](https://hallparty.app) - A social media app for colleges and communities. My work involves dealing with alot of complex architecture in frontend to ensure smooth user experience on the platform. Technologies used in the platform are as follows 
+ **Hallparty** - Working with Assist as their lead frontend developer for the web and app of their product [Hallparty](https://hallparty.app) - A social media app for colleges and communities. My work involves dealing with alot of complex architecture in frontend to ensure smooth user experience on the platform. Technologies used in the platform are as follows 
  - NextJs and ReactNative: For building the website and the app.
  - WatermelonDB: Async fast storage solution for keeping the chats.
  - XmppJs and Ejabberd: For socket connections and maintaining the chats.
@@ -37,7 +37,7 @@ I have mostly worked with Frontend technologies, like React, NextJS and Svelte (
 
 ### Private Work: 
  - [Worked on creating the buyer and seller dashboard for Upmesh - A singapore based startup](https://upmesh.io)
- - Interned with the frontend team of [Pepper](https://www.peppercontent.io/) and helped refactor thier website and also helped build the product [PepperType](https://peppertype.ai) handling the complete frontend architecture, till I was working there.
+ - Interned with the frontend team of [Pepper](https://www.peppercontent.io/) and helped refactor their website and also helped build the product [PepperType](https://peppertype.ai) handling the complete frontend architecture, till I was working there.
  - [Helped analyze various Drag and Drop libraries and made a small ETL layer for DataChannel to perform transformations with a very simple drag and drop interface](https://datachannel.co/)
  - [A short term lead frontend role for Fansee (built the entire platform from scratch) - A startup aiming to build celebrity experiences to people, with more than 150 celebs signed up](https://fansee.in) (NOTE: The website might be down now)
  - A buying selling platform for my college (inspired by OLX) to help ease the process - WIP
