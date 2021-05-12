@@ -62,12 +62,12 @@ Here are a list of some more small projects that I am planning to do for fun and
 ### My WakaTime Stats for this Week!
 <!--START_SECTION:waka-->
 ```text
-Week: 03 May, 2021 - 10 May, 2021
+Week: 04 May, 2021 - 11 May, 2021
 
-TypeScript   6 hrs 59 mins   █████████████████████▒░░░   85.05 % 
-JavaScript   58 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Other        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
-Svelte       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
-JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+TypeScript   11 hrs 21 mins  ██████████████████████░░░   87.36 % 
+JavaScript   1 hr 23 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+Other        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+Svelte       5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+JSON         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 ```
 <!--END_SECTION:waka-->
