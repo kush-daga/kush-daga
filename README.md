@@ -62,10 +62,8 @@ Here are a list of some more small projects that I am planning to do for fun and
 ### My WakaTime Stats for this Week!
 <!--START_SECTION:waka-->
 ```text
-Week: 04 June, 2021 - 11 June, 2021
+Week: 05 June, 2021 - 12 June, 2021
 
-C++          4 hrs 12 mins   ██████████████████████▓░░   90.09 % 
-TypeScript   22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-JavaScript   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+C++          4 hrs 12 mins   █████████████████████████   99.80 % 
 ```
 <!--END_SECTION:waka-->
