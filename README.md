@@ -31,6 +31,8 @@ I have mostly worked with Frontend technologies, like React, NextJS and Svelte (
 
 _**Swank**_ - Working on a project for building a small documentation based social media app that motivates users to participate in challenges like 100daysofcode and keep them motivated by rewarding consistency and having a feed to track the progress of themselves and get motivated by progress of others. A solution that involves the Feed structure similar to twitter but in depth knowledge of the post in a format similar to hashnode and incentives similar to snapchat's streaks. Tech used - Nextjs with prisma and GiraphQL
 
+_**NotsApp**_ - An integration for WhatsApp - Notion, an easy way to add content to your notion page by just sending a WhatsApp message, building using Notion official Api, Node, and NextJs.
+
 ### Templates that I made:
  - [NextJs, Prisma, GiraphQL, Apollo, GrpahQL Helix - Full Stack template to get started with web applications](https://github.com/kush-daga/Next-Prisma-GraphQL-Template)
  - [React, Redux, StyledComponents based Frontend setup with custom theming setup](https://github.com/kush-daga/theme-provider-template-redux)
