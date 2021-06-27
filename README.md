@@ -64,7 +64,7 @@ Here are a list of some more small projects that I am planning to do for fun and
 ### My WakaTime Stats for this Week!
 <!--START_SECTION:waka-->
 ```text
-Week: 19 June, 2021 - 25 June, 2021
+Week: 20 June, 2021 - 26 June, 2021
 
 TypeScript   5 hrs 7 mins    █████████████████████▒░░░   85.13 % 
 JavaScript   17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
