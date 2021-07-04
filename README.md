@@ -5,7 +5,7 @@ My name is [Kush Daga](https://kushdaga.webflow.io), also known as [dev_kid](htt
 <br></br>
 ## More about me:
 
-- 🔭 I’m currently working as ... Developer for [Assist](https://getassist.app) 
+- 🔭 I’m currently working as ... Developer for [Hallparty](https://hallparty.app) 
 - 🌱 I’m currently learning ... GraphQL, Svelte
 - 👯 I’m looking to collaborate on ... Anything, Im very cheerful :)
 - 🤔 I’m looking for help with ... Algorithms, PLEASE
