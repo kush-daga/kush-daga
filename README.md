@@ -64,6 +64,8 @@ Here are a list of some more small projects that I am planning to do for fun and
 ### My WakaTime Stats for this Week!
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 27 June, 2021 - 03 July, 2021
+
+
 ```
 <!--END_SECTION:waka-->
