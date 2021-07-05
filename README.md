@@ -64,8 +64,9 @@ Here are a list of some more small projects that I am planning to do for fun and
 ### My WakaTime Stats for this Week!
 <!--START_SECTION:waka-->
 ```text
-Week: 27 June, 2021 - 03 July, 2021
+Week: 28 June, 2021 - 04 July, 2021
 
-
+JavaScript   14 mins         ████████████████▓░░░░░░░░   67.10 % 
+JSX          7 mins          ████████░░░░░░░░░░░░░░░░░   32.54 % 
 ```
 <!--END_SECTION:waka-->
