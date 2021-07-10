@@ -26,6 +26,7 @@ I have mostly worked with Frontend technologies, like React, NextJS and Svelte (
  - XmppJs and Ejabberd: For socket connections and maintaining the chats.
  - Agora and Firebase: For voice rooms and realtime connection with them.
  - Tailwind: For design and css.
+ - RxJS: For managing streams and events.
  - Redux Toolkit : The state management library for the project.
  - Custom hooks and Api builder Classes: For managing api calls and other effects in components.
 
