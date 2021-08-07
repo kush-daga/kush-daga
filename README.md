@@ -65,12 +65,12 @@ Here are a list of some more small projects that I am planning to do for fun and
 ### My WakaTime Stats for this Week!
 <!--START_SECTION:waka-->
 ```text
-Week: 30 July, 2021 - 05 August, 2021
+Week: 31 July, 2021 - 06 August, 2021
 
-TypeScript   2 hrs 55 mins   ████████▓░░░░░░░░░░░░░░░░   34.52 % 
-JavaScript   2 hrs 50 mins   ████████▒░░░░░░░░░░░░░░░░   33.51 % 
-JSX          1 hr 21 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
-SCSS         1 hr 10 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.84 % 
-CSS          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+JavaScript   3 hrs 3 mins    ██████████▒░░░░░░░░░░░░░░   41.42 % 
+TypeScript   2 hrs 55 mins   ██████████░░░░░░░░░░░░░░░   39.61 % 
+SCSS         38 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+JSX          31 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+CSS          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 ```
 <!--END_SECTION:waka-->
