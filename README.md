@@ -65,7 +65,7 @@ Here are a list of some more small projects that I am planning to do for fun and
 ### My WakaTime Stats for this Week!
 <!--START_SECTION:waka-->
 ```text
-Week: 27 August, 2021 - 02 September, 2021
+Week: 28 August, 2021 - 03 September, 2021
 
 TypeScript        7 hrs 39 mins   ████████████████░░░░░░░░░   63.44 % 
 JavaScript        1 hr 59 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
