@@ -65,12 +65,12 @@ Here are a list of some more small projects that I am planning to do for fun and
 ### My WakaTime Stats for this Week!
 <!--START_SECTION:waka-->
 ```text
-Week: 17 November, 2021 - 23 November, 2021
+Week: 18 November, 2021 - 24 November, 2021
 
-TypeScript   11 hrs 19 mins  ██████████████████████░░░   87.97 % 
-JavaScript   50 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
-SCSS         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
-Python       11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
-HTML         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+TypeScript   7 hrs 40 mins   █████████████████████▓░░░   87.06 % 
+JavaScript   49 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+Python       11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+C++          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+Text         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 ```
 <!--END_SECTION:waka-->
