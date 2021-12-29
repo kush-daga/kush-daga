@@ -20,6 +20,9 @@ I have mostly worked with Frontend technologies, like React, NextJS and Svelte (
 
 ### Current Work:
 
+_**Current Focus**_ - My major focus right now is on building the go to solution for live commerce in India, a platform that enables any creator, housewife, employee, or a brand, to easily start selling thier products to buyers via LiveStreams, with easy solution for buyers to add to cart and buy the product shown.
+
+
  _**Hallparty**_ - Working with Assist as their lead frontend developer for the web and app of their product [Hallparty](https://hallparty.app) - A social media app for colleges and communities. My work involves dealing with alot of complex architecture in frontend to ensure smooth user experience on the platform. Technologies used in the platform are as follows 
  - NextJs and ReactNative: For building the website and the app.
  - WatermelonDB: Async fast storage solution for keeping the chats.
@@ -38,7 +41,8 @@ _**NotsApp**_ - An integration for WhatsApp - Notion, an easy way to add content
  - [NextJs, Prisma, GiraphQL, Apollo, GrpahQL Helix - Full Stack template to get started with web applications](https://github.com/kush-daga/Next-Prisma-GraphQL-Template)
  - [React, Redux, StyledComponents based Frontend setup with custom theming setup](https://github.com/kush-daga/theme-provider-template-redux)
 
-### Private Work: 
+### Private Work:  
+ - Frontend Intern at [Fampay](https://fampay.in). Worked on 2 projects that are currently live in the main application, the work involved working on the web view inside the main application, responsible for handling explore section, rewards and games. Worked on Cashback spinner and Savings goal feature for the application. 
  - [Worked on creating the buyer and seller dashboard for Upmesh - A singapore based startup](https://upmesh.io)
  - Interned with the frontend team of [Pepper](https://www.peppercontent.io/) and helped refactor their website and also helped build the product [PepperType](https://peppertype.ai) handling the complete frontend architecture, till I was working there.
  - [Helped analyze various Drag and Drop libraries and made a small ETL layer for DataChannel to perform transformations with a very simple drag and drop interface](https://datachannel.co/)
