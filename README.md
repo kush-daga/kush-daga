@@ -23,7 +23,7 @@ I have mostly worked with Frontend technologies, like React, NextJS and Svelte (
 _**Current Focus**_ - My major focus right now is on building the go to solution for live commerce in India, a platform that enables any creator, housewife, employee, or a brand, to easily start selling thier products to buyers via LiveStreams, with easy solution for buyers to add to cart and buy the product shown.
 
 
- _**Hallparty**_ - Working with Assist as their lead frontend developer for the web and app of their product [Hallparty](https://hallparty.app) - A social media app for colleges and communities. My work involves dealing with alot of complex architecture in frontend to ensure smooth user experience on the platform. Technologies used in the platform are as follows 
+ _**Hallparty**_ - Working with Hallparty as their lead frontend developer for the web and app of their product [Hallparty](https://hallparty.app) - A social media app for colleges and communities. My work involves dealing with alot of complex architecture in frontend to ensure smooth user experience on the platform. Technologies used in the platform are as follows 
  - NextJs and ReactNative: For building the website and the app.
  - WatermelonDB: Async fast storage solution for keeping the chats.
  - XmppJs and Ejabberd: For socket connections and maintaining the chats.
