@@ -16,7 +16,7 @@ My name is [Kush Daga](https://kushdaga.webflow.io), also known as [dev_kid](htt
 
 
 ## My Work
-I have mostly worked with Frontend technologies, like React, NextJS and Svelte (still learning) using mainly typescript as my first language of choice, most of my work revolves around this domain, however I have also started tinkering around with GraphQL and NodeJs alot more :)
+I have mostly worked with Frontend technologies, like React, NextJS and Svelte (still learning) using mainly typescript as my first language of choice, most of my work revolves around this domain :)
 
 ### Current Work:
 
