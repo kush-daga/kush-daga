@@ -69,12 +69,11 @@ Here are a list of some more small projects that I am planning to do for fun and
 ### My WakaTime Stats for this Week!
 <!--START_SECTION:waka-->
 ```text
-Week: 27 January, 2022 - 02 February, 2022
+Week: 28 January, 2022 - 03 February, 2022
 
-TypeScript   31 hrs 48 mins  ████████████████████████▓   98.22 % 
-XML          16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
-Markdown     10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-JavaScript   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
-CSS          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+TypeScript   28 hrs 19 mins  ████████████████████████▓   99.05 % 
+XML          8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+JavaScript   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+CSS          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 ```
 <!--END_SECTION:waka-->
