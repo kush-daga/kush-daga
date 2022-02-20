@@ -69,9 +69,7 @@ Here are a list of some more small projects that I am planning to do for fun and
 ### My WakaTime Stats for this Week!
 <!--START_SECTION:waka-->
 ```text
-Week: 12 February, 2022 - 18 February, 2022
-
-Total: 2 mins
+Week: 13 February, 2022 - 19 February, 2022
 
 TypeScript   2 mins          █████████████████████████   100.00 % 
 ```
