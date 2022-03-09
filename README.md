@@ -70,10 +70,9 @@ Here are a list of some more small projects that I am planning to do for fun and
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 February 2022 - To: 07 March 2022
+From: 01 March 2022 - To: 08 March 2022
 
-Svelte       16 mins         █████████▓░░░░░░░░░░░░░░░   38.31 %
-Other        16 mins         █████████▒░░░░░░░░░░░░░░░   37.83 %
+Other        2 hrs 23 mins   █████████████████████░░░░   83.67 %
 ```
 
 <!--END_SECTION:waka-->
