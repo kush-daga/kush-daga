@@ -70,9 +70,9 @@ Here are a list of some more small projects that I am planning to do for fun and
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 March 2022 - To: 08 March 2022
+From: 02 March 2022 - To: 09 March 2022
 
-Other        2 hrs 23 mins   █████████████████████░░░░   83.67 %
+Other        2 hrs 23 mins   █████████████████████░░░░   83.68 %
 ```
 
 <!--END_SECTION:waka-->
