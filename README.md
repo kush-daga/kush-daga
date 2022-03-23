@@ -70,14 +70,14 @@ Here are a list of some more small projects that I am planning to do for fun and
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 March 2022 - To: 21 March 2022
+From: 15 March 2022 - To: 22 March 2022
 
-TypeScript   10 hrs 47 mins  ████████████████████▓░░░░   82.93 %
-Go           1 hr 7 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.69 %
-Bash         38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
-JSON         19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
-Markdown     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+TypeScript   12 hrs 23 mins  ███████████████████████░░   92.30 %
+Bash         35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
+JSON         20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+Markdown     5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
 Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+TOML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
