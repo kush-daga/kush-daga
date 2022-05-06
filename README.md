@@ -70,10 +70,10 @@ Here are a list of some more small projects that I am planning to do for fun and
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 April 2022 - To: 04 May 2022
+From: 28 April 2022 - To: 05 May 2022
 
-TypeScript   41 mins         ████████████████████████▓   98.29 %
-Bash         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+TypeScript   52 mins         ████████████████████████▓   98.66 %
+Bash         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
 ```
 
 <!--END_SECTION:waka-->
