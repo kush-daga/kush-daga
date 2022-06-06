@@ -70,7 +70,7 @@ Here are a list of some more small projects that I am planning to do for fun and
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 May 2022 - To: 04 June 2022
+From: 29 May 2022 - To: 05 June 2022
 
 TypeScript   1 hr 11 mins    ████████████████████████░   95.89 %
 CSS          2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
