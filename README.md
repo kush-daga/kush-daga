@@ -22,7 +22,7 @@ I have mostly worked with Frontend technologies, like React, NextJS and Svelte (
 
 _**UrbanTV (Current Focus)**_ - My major focus right now is on building the go to solution for live commerce in India, a platform that enables any creator, housewife, employee, or a brand, to easily start selling thier products to buyers via LiveStreams, with easy solution for buyers to add to cart and buy the product shown.
 
-_**Swank**_ - Working on a project for building a small documentation based social media app that motivates users to participate in challenges like 100daysofcode and keep them motivated by rewarding consistency and having a feed to track the progress of themselves and get motivated by progress of others. A solution that involves the Feed structure similar to twitter but in depth knowledge of the post in a format similar to hashnode and incentives similar to snapchat's streaks. Tech used - Nextjs with prisma and GiraphQL
+_**Swank**_ - A project for building a small documentation based social media app that motivates users to participate in challenges like 100daysofcode and keep them motivated by rewarding consistency and having a feed to track the progress of themselves and get motivated by progress of others. A solution that involves the Feed structure similar to twitter but in depth knowledge of the post in a format similar to hashnode and incentives similar to snapchat's streaks. Tech used - Nextjs with prisma and GiraphQL
 
 _**NotsApp**_ - An integration for WhatsApp - Notion, an easy way to add content to your notion page by just sending a WhatsApp message, building using Notion official Api, Node, and NextJs.
 
@@ -31,7 +31,7 @@ _**NotsApp**_ - An integration for WhatsApp - Notion, an easy way to add content
  - [React, Redux, StyledComponents based Frontend setup with custom theming setup](https://github.com/kush-daga/theme-provider-template-redux)
 
 ### Private Work:  
- * _**Hallparty**_ - Working with Hallparty as their lead frontend developer for the web and app of their product [Hallparty](https://hallparty.app) - A social media app for colleges and communities. My work involves dealing with alot of complex architecture in frontend to ensure smooth user experience on the platform. Technologies used in the platform are as follows 
+ * _**Hallparty**_ - Worked with Hallparty as their lead frontend developer for the web and app of their product [Hallparty](https://hallparty.app) - A social media app for colleges and communities. My work involves dealing with alot of complex architecture in frontend to ensure smooth user experience on the platform. Technologies used in the platform are as follows 
    - NextJs and ReactNative: For building the website and the app.
    - WatermelonDB: Async fast storage solution for keeping the chats.
    - XmppJs and Ejabberd: For socket connections and maintaining the chats.
