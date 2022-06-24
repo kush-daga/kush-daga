@@ -31,7 +31,7 @@ _**NotsApp**_ - An integration for WhatsApp - Notion, an easy way to add content
  - [React, Redux, StyledComponents based Frontend setup with custom theming setup](https://github.com/kush-daga/theme-provider-template-redux)
 
 ### Private Work:  
- -  _**Hallparty**_ - Working with Hallparty as their lead frontend developer for the web and app of their product [Hallparty](https://hallparty.app) - A social media app for colleges and communities. My work involves dealing with alot of complex architecture in frontend to ensure smooth user experience on the platform. Technologies used in the platform are as follows 
+ * _**Hallparty**_ - Working with Hallparty as their lead frontend developer for the web and app of their product [Hallparty](https://hallparty.app) - A social media app for colleges and communities. My work involves dealing with alot of complex architecture in frontend to ensure smooth user experience on the platform. Technologies used in the platform are as follows 
    - NextJs and ReactNative: For building the website and the app.
    - WatermelonDB: Async fast storage solution for keeping the chats.
    - XmppJs and Ejabberd: For socket connections and maintaining the chats.
