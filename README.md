@@ -20,7 +20,7 @@ I have mostly worked with Frontend technologies, like React, NextJS and Svelte (
 
 ### Current Work:
 
-_**UrbanTV (Current Focus)**_ - My major focus right now is on building the go to solution for live commerce in India, a platform that enables any creator, housewife, employee, or a brand, to easily start selling thier products to buyers via LiveStreams, with easy solution for buyers to add to cart and buy the product shown.
+_**UrbanTV (Current Focus)**_ - [UrbanTV](https://urbantv.shop) My major focus right now is on building the go to solution for live commerce in India, a platform that enables any creator, housewife, employee, or a brand, to easily start selling thier products to buyers via LiveStreams, with easy solution for buyers to add to cart and buy the product shown.
 
 _**Swank**_ - A project for building a small documentation based social media app that motivates users to participate in challenges like 100daysofcode and keep them motivated by rewarding consistency and having a feed to track the progress of themselves and get motivated by progress of others. A solution that involves the Feed structure similar to twitter but in depth knowledge of the post in a format similar to hashnode and incentives similar to snapchat's streaks. Tech used - Nextjs with prisma and GiraphQL
 
