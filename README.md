@@ -68,9 +68,9 @@ Here are a list of some more small projects that I am planning to do for fun and
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 September 2022 - To: 13 September 2022
+From: 07 September 2022 - To: 14 September 2022
 
-Other        1 hr 43 mins    ████████████████▓░░░░░░░░   67.07 %
+Other        1 hr 16 mins    ███████████████░░░░░░░░░░   59.93 %
 ```
 
 <!--END_SECTION:waka-->
