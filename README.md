@@ -5,10 +5,10 @@ My name is [Kush Daga](https://kushdaga.webflow.io), also known as [dev_kid](htt
 <br></br>
 ## More about me:
 
-- 🔭 I’m currently working as ... Building UrbanTv - Live commerce platform for India. 
-- 🌱 I’m currently learning ... GraphQL, Svelte
+- 🔭 I’m currently working as ... Frontend Developer at [Fampay](https://fampay.in). 
+- 🌱 I’m currently learning ... iOS Development
 - 👯 I’m looking to collaborate on ... Anything, Im very cheerful :)
-- 🤔 I’m looking for help with ... Algorithms, PLEASE
+- 🤔 I’m looking for help with ... SwiftUI
 - 💬 Ask me about ... React is my forte, but ask me about anything, if I dont know, Ill search for it with you! 
 - 📫 How to reach me: ... kushdaga@icloud.com
 - 😄 Pronouns: ... He/Him
@@ -19,8 +19,9 @@ My name is [Kush Daga](https://kushdaga.webflow.io), also known as [dev_kid](htt
 I have mostly worked with Frontend technologies, like React, NextJS and Svelte (still learning) using mainly typescript as my first language of choice, most of my work revolves around this domain :)
 
 ### Current Work:
+_**Fampay (Current Focus) **_ - Joined Fampay as a Full-Time Frontend Developer, working on thier web view flows inside Native applications used by 5mn+ users. Working with React, React-Query, Styled Components.
 
-_**UrbanTV (Current Focus)**_ - [UrbanTV](https://urbantv.shop) My major focus right now is on building the go to solution for live commerce in India, a platform that enables any creator, housewife, employee, or a brand, to easily start selling thier products to buyers via LiveStreams, with easy solution for buyers to add to cart and buy the product shown.
+_**UrbanTV**_ - [UrbanTV](https://urbantv.shop) My major focus right now is on building the go to solution for live commerce in India, a platform that enables any creator, housewife, employee, or a brand, to easily start selling thier products to buyers via LiveStreams, with easy solution for buyers to add to cart and buy the product shown.
 
 _**Swank**_ - A project for building a small documentation based social media app that motivates users to participate in challenges like 100daysofcode and keep them motivated by rewarding consistency and having a feed to track the progress of themselves and get motivated by progress of others. A solution that involves the Feed structure similar to twitter but in depth knowledge of the post in a format similar to hashnode and incentives similar to snapchat's streaks. Tech used - Nextjs with prisma and GiraphQL
 
