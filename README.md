@@ -19,7 +19,7 @@ My name is [Kush Daga](https://kushdaga.webflow.io), also known as [dev_kid](htt
 I have mostly worked with Frontend technologies, like React, NextJS and Svelte (still learning) using mainly typescript as my first language of choice, most of my work revolves around this domain :)
 
 ### Current Work:
-_**Fampay (Current Focus) **_ - Joined Fampay as a Full-Time Frontend Developer, working on thier web view flows inside Native applications used by 5mn+ users. Working with React, React-Query, Styled Components.
+_**Fampay (Current Focus)**_ - Joined Fampay as a Full-Time Frontend Developer, working on thier web view flows inside Native applications used by 5mn+ users. Working with React, React-Query, Styled Components.
 
 _**UrbanTV**_ - [UrbanTV](https://urbantv.shop) My major focus right now is on building the go to solution for live commerce in India, a platform that enables any creator, housewife, employee, or a brand, to easily start selling thier products to buyers via LiveStreams, with easy solution for buyers to add to cart and buy the product shown.
 
