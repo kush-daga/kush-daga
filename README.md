@@ -21,17 +21,13 @@ I have mostly worked with Frontend technologies, like React, NextJS and Svelte (
 ### Current Work:
 _**Fampay (Current Focus)**_ - Joined Fampay as a Full-Time Frontend Developer, working on thier web view flows inside Native applications used by 5mn+ users. Working with React, React-Query, Styled Components.
 
-_**UrbanTV**_ - [UrbanTV](https://urbantv.shop) My major focus right now is on building the go to solution for live commerce in India, a platform that enables any creator, housewife, employee, or a brand, to easily start selling thier products to buyers via LiveStreams, with easy solution for buyers to add to cart and buy the product shown.
-
-_**Swank**_ - A project for building a small documentation based social media app that motivates users to participate in challenges like 100daysofcode and keep them motivated by rewarding consistency and having a feed to track the progress of themselves and get motivated by progress of others. A solution that involves the Feed structure similar to twitter but in depth knowledge of the post in a format similar to hashnode and incentives similar to snapchat's streaks. Tech used - Nextjs with prisma and GiraphQL
-
-_**NotsApp**_ - An integration for WhatsApp - Notion, an easy way to add content to your notion page by just sending a WhatsApp message, building using Notion official Api, Node, and NextJs.
-
 ### Templates that I made:
  - [NextJs, Prisma, GiraphQL, Apollo, GrpahQL Helix - Full Stack template to get started with web applications](https://github.com/kush-daga/Next-Prisma-GraphQL-Template)
  - [React, Redux, StyledComponents based Frontend setup with custom theming setup](https://github.com/kush-daga/theme-provider-template-redux)
 
 ### Private Work:  
+* _**UrbanTV**_ - [UrbanTV](https://urbantv.shop) was the go to solution for live commerce in India, a platform that enables any creator, housewife, employee, or a brand, to easily start selling thier products to buyers via LiveStreams, with easy solution for buyers to add to cart and buy the product shown.
+
  * _**Hallparty**_ - Worked with Hallparty as their lead frontend developer for the web and app of their product [Hallparty](https://hallparty.app) - A social media app for colleges and communities. My work involved dealing with alot of complex architecture in frontend to ensure smooth user experience on the platform. Technologies used in the platform are as follows 
    - NextJs and ReactNative: For building the website and the app.
    - WatermelonDB: Async fast storage solution for keeping the chats.
@@ -47,6 +43,12 @@ _**NotsApp**_ - An integration for WhatsApp - Notion, an easy way to add content
  - [Helped analyze various Drag and Drop libraries and made a small ETL layer for DataChannel to perform transformations with a very simple drag and drop interface](https://datachannel.co/)
  - [A short term lead frontend role for Fansee (built the entire platform from scratch) - A startup aiming to build celebrity experiences to people, with more than 150 celebs signed up](https://fansee.in) (NOTE: The website might be down now)
  - A buying selling platform for my college (inspired by OLX) to help ease the process - WIP
+
+### Projects that I aim to complete some day:
+_**Swank**_ - A project for building a small documentation based social media app that motivates users to participate in challenges like 100daysofcode and keep them motivated by rewarding consistency and having a feed to track the progress of themselves and get motivated by progress of others. A solution that involves the Feed structure similar to twitter but in depth knowledge of the post in a format similar to hashnode and incentives similar to snapchat's streaks. Tech used - Nextjs with prisma and GiraphQL
+
+_**NotsApp**_ - An integration for WhatsApp - Notion, an easy way to add content to your notion page by just sending a WhatsApp message, building using Notion official Api, Node, and NextJs.
+
 
 ### Some small learning projects:
  - [Wheel of Fortune - A small one page PWA app built to learn more about gestures and stuff made with React.](https://github.com/kush-daga/wheel-of-fortune)
