@@ -71,12 +71,12 @@ Here are a list of some more small projects that I am planning to do for fun and
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 September 2022 - To: 07 October 2022
+From: 01 October 2022 - To: 08 October 2022
 
-JavaScript   19 hrs 42 mins  ████████████████████████░   95.59 %
-Bash         28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
-JSON         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
-textmate     6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+JavaScript   18 hrs 40 mins  ████████████████████████░   95.36 %
+Bash         28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
+JSON         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+textmate     6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
