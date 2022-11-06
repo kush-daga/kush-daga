@@ -50,8 +50,9 @@ _**Swank**_ - A project for building a small documentation based social media ap
 _**NotsApp**_ - An integration for WhatsApp - Notion, an easy way to add content to your notion page by just sending a WhatsApp message, building using Notion official Api, Node, and NextJs.
 
 
-### Some small learning projects:
- - [Wheel of Fortune - A small one page PWA app built to learn more about gestures and stuff made with React.](https://github.com/kush-daga/wheel-of-fortune)
+### All other projects (Basic ones included):
+ - [PlsReadme- Readme Generator CLI Tool](https://github.com/kush-daga/readme-generator-cli) -- First project in GOLANG to build  readme files for your projects! Inspired by README.so
+ - [Wheel of Fortune](https://github.com/kush-daga/wheel-of-fortune) - A small one page PWA app built to learn more about gestures and stuff made with React.
  - [Very simple chat application to understand sockets](https://github.com/kush-daga/socketio-webrtc)
  - [A dashboard for cisco meraki cameras - SIH (smart india hackathon) 2020 Project](https://github.com/shubhank-saxena/CiscoDevnetSIH2020_Kamikazey)
  - [A simple data visualizer with some Ipl Data to get more insight on how charting works](https://github.com/kush-daga/ipl-data-visualizer)
