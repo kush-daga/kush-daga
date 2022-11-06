@@ -51,18 +51,23 @@ _**NotsApp**_ - An integration for WhatsApp - Notion, an easy way to add content
 
 
 ### All other projects (Basic ones included):
- - [PlsReadme- Readme Generator CLI Tool](https://github.com/kush-daga/readme-generator-cli) -- First project in GOLANG to build  readme files for your projects! Inspired by README.so
- - [Wheel of Fortune](https://github.com/kush-daga/wheel-of-fortune) - A small one page PWA app built to learn more about gestures and stuff made with React.
- - [Very simple chat application to understand sockets](https://github.com/kush-daga/socketio-webrtc)
- - [A dashboard for cisco meraki cameras - SIH (smart india hackathon) 2020 Project](https://github.com/shubhank-saxena/CiscoDevnetSIH2020_Kamikazey)
- - [A simple data visualizer with some Ipl Data to get more insight on how charting works](https://github.com/kush-daga/ipl-data-visualizer)
- - [A shared whiteboard app to understand sockets and HTML canvas a lot better](https://github.com/kush-daga/shareBoard)
- - [Playlist prediction based on your face expression - Fun](https://github.com/kush-daga/emotion_recommender)
- - [Static website for my mom](https://ksinstitute.netlify.app/)
- - [A simple reddit thread scrapper](https://github.com/kush-daga/Reddit-Corona-scrapper)
- - [A very old scrapping project to get latest twitter news](https://github.com/kush-daga/twitterNews)
- - [A clone of hackernews - Because everyone needs one clone project](https://github.com/kush-daga/hacker-news-clone)
- - [A very small project to tinker with React Query - using star wars api](https://github.com/kush-daga/react-query-learn/)
+
+| Name      | Link                                              | Description                                                                            | Language | Difficulty |
+|-----------|---------------------------------------------------|----------------------------------------------------------------------------------------|----------|------------|
+| PlsReadme | [GitHub](https://github.com/kush-daga/readme-generator-cli) | First project in GOLANG to build readme files for your projects! Inspired by README.so | Go       | Med        |
+| Wheel Of Fortune | [Github](https://github.com/kush-daga/wheel-of-fortune) | A small one page PWA app built to learn more about gestures and stuff made with React. | React | Low |
+| Chat App | [GitHub](https://github.com/kush-daga/socketio-webrtc) | A very simple chat app to understand sockets | SocketIo | Low | 
+| Cisco Meraki Dashboard | [Github](https://github.com/shubhank-saxena/CiscoDevnetSIH2020_Kamikazey) | A dashboard for cisco meraki cameras - SIH (smart india hackathon) 2020 Project | React | Med |
+| IPL data visualizer | [Github](https://github.com/kush-daga/ipl-data-visualizer) | A simple data visualizer with some IPL data to get more insight into charting | React | Med |
+| Share Board | [Github](https://github.com/kush-daga/shareBoard) | A shared whiteboard app to learn sockets in HTML Canvas | HTML, SocketIo | Low |
+| EmotionRecommender | [Github](https://github.com/kush-daga/emotion_recommender) | Playlist prediction based on your face expression - Fun | React, Azure | Low | 
+| Ks Institute | [Website](https://ksinstitute.netlify.app/) | A static webstite for my mom | Gatsby | Low | 
+| Corona Scrapper |  [GitHub](https://github.com/kush-daga/Reddit-Corona-scrapper) |  A simple reddit thread scrapper | Python | Low |
+| Twitter News Scrapper | [GitHub](https://github.com/kush-daga/twitterNews) | One of my oldest projects and scrappers | Python | Low |
+| DagaNews | [Github](https://github.com/kush-daga/hacker-news-clone) | A clone of hackernews - Because everyone needs one clone project | React | Mid |
+| StarWars | [GitHub](https://github.com/kush-daga/react-query-learn/) | A very small project to tinker with React Query - using star wars api | React | Low |
+
+<br />
 
 Here are a list of some more small projects that I am planning to do for fun and to keep my knowledge up to date (some are done and urls are included in it) - [Personal Projects List](https://www.notion.so/kushdaga/Personal-Projects-d77b23ce860740ba9f50ed2f126b45ea) 
 
