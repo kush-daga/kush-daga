@@ -55,6 +55,8 @@ _**NotsApp**_ - An integration for WhatsApp - Notion, an easy way to add content
 | Name      | Link                                              | Description                                                                            | Language | Difficulty |
 |-----------|---------------------------------------------------|----------------------------------------------------------------------------------------|----------|------------|
 | PlsReadme | [GitHub](https://github.com/kush-daga/readme-generator-cli) | First project in GOLANG to build readme files for your projects! Inspired by README.so | Go       | Med        |
+| Guess The Flag | [Github](https://github.com/kush-daga/GuessTheFlag) | Second Project in SwiftUI - A game to guess flags | SwiftUI | Low | 
+| WeSplit | [Github](https://github.com/kush-daga/WeSplit) | First Project in SwiftUI - A simple bill splitting application | SwiftUI | Low |
 | Wheel Of Fortune | [Github](https://github.com/kush-daga/wheel-of-fortune) | A small one page PWA app built to learn more about gestures and stuff made with React. | React | Low |
 | Chat App | [GitHub](https://github.com/kush-daga/socketio-webrtc) | A very simple chat app to understand sockets | SocketIo | Low | 
 | Cisco Meraki Dashboard | [Github](https://github.com/shubhank-saxena/CiscoDevnetSIH2020_Kamikazey) | A dashboard for cisco meraki cameras - SIH (smart india hackathon) 2020 Project | React | Med |
