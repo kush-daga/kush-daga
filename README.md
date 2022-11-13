@@ -80,14 +80,14 @@ Here are a list of some more small projects that I am planning to do for fun and
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 November 2022 - To: 11 November 2022
+From: 05 November 2022 - To: 12 November 2022
 
-Go           7 hrs 32 mins   █████████████▒░░░░░░░░░░░   53.51 %
-TypeScript   1 hr 57 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.86 %
-Python       1 hr 27 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.33 %
-JSON         1 hr 18 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.25 %
-JavaScript   40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
-YAML         37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
+Go           4 hrs 21 mins   ██████████▒░░░░░░░░░░░░░░   41.84 %
+TypeScript   2 hrs 34 mins   ██████░░░░░░░░░░░░░░░░░░░   24.65 %
+Python       1 hr 27 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.99 %
+JSON         44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 %
+JavaScript   40 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
+YAML         20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
 ```
 
 <!--END_SECTION:waka-->
