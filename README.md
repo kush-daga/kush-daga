@@ -82,12 +82,11 @@ Here are a list of some more small projects that I am planning to do for fun and
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 November 2022 - To: 20 November 2022
+From: 14 November 2022 - To: 21 November 2022
 
-TypeScript   10 hrs 48 mins  ██████████████████▒░░░░░░   72.84 %
-HTML         1 hr 38 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.02 %
-JavaScript   1 hr 21 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.21 %
-Other        31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
+TypeScript   9 hrs 37 mins   ███████████████████▒░░░░░   77.92 %
+HTML         1 hr 38 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.23 %
+Other        27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
 ```
 
 <!--END_SECTION:waka-->
