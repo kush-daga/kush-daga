@@ -82,7 +82,7 @@ Here are a list of some more small projects that I am planning to do for fun and
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 November 2022 - To: 04 December 2022
+From: 28 November 2022 - To: 05 December 2022
 
 JSON         1 hr 53 mins    █████████░░░░░░░░░░░░░░░░   35.64 %
 JavaScript   1 hr 32 mins    ███████▒░░░░░░░░░░░░░░░░░   28.93 %
