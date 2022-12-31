@@ -82,7 +82,10 @@ Here are a list of some more small projects that I am planning to do for fun and
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 23 December 2022 - To: 30 December 2022
+
+TypeScript   4 mins          ████████████████████████▓   98.92 %
+JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
 ```
 
 <!--END_SECTION:waka-->
