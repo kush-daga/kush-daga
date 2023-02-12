@@ -82,7 +82,7 @@ Here are a list of some more small projects that I am planning to do for fun and
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 February 2023 - To: 10 February 2023
+From: 04 February 2023 - To: 11 February 2023
 
 JavaScript   2 hrs 50 mins   ███████████████▒░░░░░░░░░   60.82 %
 HTML         1 hr 41 mins    █████████░░░░░░░░░░░░░░░░   36.24 %
