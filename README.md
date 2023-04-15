@@ -54,6 +54,7 @@ _**NotsApp**_ - An integration for WhatsApp - Notion, an easy way to add content
 
 | Name      | Link                                              | Description                                                                            | Language | Difficulty |
 |-----------|---------------------------------------------------|----------------------------------------------------------------------------------------|----------|------------|
+| Viberrr | [GitHub](https://github.com/kush-daga/playlist-maker) | A website to allow you to create Playlists based on the event description you want to go to! | T3 Stack, ChatGPT | Low |
 | Crowdd | [GitHub](https://github.com/kush-daga/crowdd) | A website where you can see how many people are at a given place at a time (helps in planning where to go to eat, outing, etc.) | Remix, Vercel, Prisma | Low |
 | GetMe | [GitHub](https://github.com/kush-daga/GetMe) | A small tool to create your own API endpoint, use it for your website or anywhere else! | Remix, PlanetScale, Vercel | Low | 
 | DagaPack | [GitHub](https://github.com/kush-daga/dagaPack) | My own webpack in Go! | Go | Med |
