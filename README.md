@@ -83,14 +83,14 @@ Here are a list of some more small projects that I am planning to do for fun and
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 April 2023 - To: 27 April 2023
+From: 21 April 2023 - To: 28 April 2023
 
-TypeScript       8 hrs 43 mins   ████████████████████░░░░░   79.59 %
-HTML             1 hr 30 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.68 %
-JavaScript       29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
-Direnv File      4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
-JSON             4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
-TSConfig         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+TypeScript       9 hrs 36 mins   █████████████████████▒░░░   84.76 %
+HTML             1 hr 30 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.24 %
+JavaScript       11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
