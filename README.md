@@ -83,7 +83,7 @@ Here are a list of some more small projects that I am planning to do for fun and
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 May 2023 - To: 25 May 2023
+From: 19 May 2023 - To: 26 May 2023
 
 TypeScript   6 hrs 3 mins    ████████████████████████▓   98.11 %
 HTML         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
