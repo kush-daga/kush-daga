@@ -82,14 +82,14 @@ Here are a list of some more small projects that I am planning to do for fun and
 ### My WakaTime Stats for this Week!
 <!--START_SECTION:waka-->
 
-```text
-From: 25 May 2023 - To: 01 June 2023
+```txt
+From: 26 May 2023 - To: 02 June 2023
 
-TypeScript          8 hrs 8 mins    ██████████████████░░░░░░░   71.71 %
-JavaScript          2 hrs 13 mins   █████░░░░░░░░░░░░░░░░░░░░   19.68 %
-Python              25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
-Markdown            11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
-justfile            9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+TypeScript          8 hrs 11 mins   ██████████████████░░░░░░░   71.84 %
+JavaScript          2 hrs 13 mins   █████░░░░░░░░░░░░░░░░░░░░   19.60 %
+Python              25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
+Markdown            11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+justfile            9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
 ```
 
 <!--END_SECTION:waka-->
