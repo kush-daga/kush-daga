@@ -83,13 +83,13 @@ Here are a list of some more small projects that I am planning to do for fun and
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 June 2023 - To: 06 July 2023
+From: 30 June 2023 - To: 07 July 2023
 
-YAML              53 mins         ████████████▒░░░░░░░░░░░░   48.87 %
-TypeScript        36 mins         ████████▒░░░░░░░░░░░░░░░░   33.44 %
-JavaScript        7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
-Docker            4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
-GitIgnore file    3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
+YAML             53 mins         █████████████▒░░░░░░░░░░░   53.52 %
+TypeScript       30 mins         ███████▓░░░░░░░░░░░░░░░░░   30.17 %
+JavaScript       7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 %
+Docker           4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
+GitIgnore file   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
 ```
 
 <!--END_SECTION:waka-->
