@@ -83,7 +83,7 @@ Here are a list of some more small projects that I am planning to do for fun and
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 July 2023 - To: 08 July 2023
+From: 02 July 2023 - To: 09 July 2023
 
 YAML             53 mins         █████████████▒░░░░░░░░░░░   53.52 %
 TypeScript       30 mins         ███████▓░░░░░░░░░░░░░░░░░   30.17 %
