@@ -83,7 +83,7 @@ Here are a list of some more small projects that I am planning to do for fun and
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 July 2023 - To: 14 July 2023
+From: 08 July 2023 - To: 15 July 2023
 
 TypeScript   10 mins         ████████████████████▒░░░░   80.94 %
 .env file    1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.98 %
