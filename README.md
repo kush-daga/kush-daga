@@ -83,9 +83,13 @@ Here are a list of some more small projects that I am planning to do for fun and
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 July 2023 - To: 07 August 2023
+From: 01 August 2023 - To: 08 August 2023
 
-No activity tracked
+TypeScript   2 hrs 54 mins   ███████████████████████▓░   95.29 %
+Astro        4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 ```
 
 <!--END_SECTION:waka-->
