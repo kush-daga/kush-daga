@@ -83,7 +83,7 @@ Here are a list of some more small projects that I am planning to do for fun and
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 August 2023 - To: 08 August 2023
+From: 02 August 2023 - To: 09 August 2023
 
 TypeScript   2 hrs 54 mins   ███████████████████████▓░   95.29 %
 Astro        4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
