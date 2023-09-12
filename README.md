@@ -5,7 +5,7 @@ My name is [Kush Daga](https://kushdaga.webflow.io), also known as [dev_kid](htt
 <br></br>
 ## More about me:
 
-- 🔭 I’m currently working as ... Frontend Developer at [Fampay](https://fampay.in). 
+- 🔭 I’m currently working as ... Founding Engineer at [Segwise](https://segwise.ai). 
 - 🌱 I’m currently learning ... How to build a browser
 - 👯 I’m looking to collaborate on ... Anything, Im very cheerful :)
 - 🤔 I’m looking for help with ... SwiftUI
