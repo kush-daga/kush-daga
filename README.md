@@ -83,13 +83,13 @@ Here are a list of some more small projects that I am planning to do for fun and
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 September 2023 - To: 02 October 2023
+From: 26 September 2023 - To: 03 October 2023
 
-TypeScript       8 hrs 34 mins   ███████████████████████░░   92.31 %
-YAML             29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
-JavaScript       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-.env file        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-JSON             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+TypeScript   7 hrs 40 mins   ██████████████████▓░░░░░░   74.01 %
+YAML         1 hr 31 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.79 %
+JSON         45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
+Bash         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
+JavaScript   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
 ```
 
 <!--END_SECTION:waka-->
