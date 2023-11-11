@@ -6,7 +6,7 @@ My name is [Kush Daga](https://kushdaga.webflow.io), also known as [dev_kid](htt
 ## More about me:
 
 - 🔭 I’m currently working as ... Founding Engineer at [Segwise](https://segwise.ai).
-- 🚧 I'm currently building ... [Bugzy](https://bugzy.app) with [Tanvesh](https://twitter.com/Sarve___tanvesh) -  A SDK to easily collect bugs, feedbacks and queries in your product!
+- 🚧 I'm currently building ... [Bugzy](https://bugzy.app) and [Shundo](https://shundo.app/) with [Tanvesh](https://twitter.com/Sarve___tanvesh) -  A SDK to easily collect bugs, feedbacks and queries in your product!
 - 🌱 I’m currently learning ... How to build a browser
 - 👯 I’m looking to collaborate on ... Anything, Im very cheerful :)
 - 🤔 I’m looking for help with ... SwiftUI
