@@ -5,7 +5,8 @@ My name is [Kush Daga](https://kushdaga.webflow.io), also known as [dev_kid](htt
 <br></br>
 ## More about me:
 
-- 🔭 I’m currently working as ... Founding Engineer at [Segwise](https://segwise.ai). 
+- 🔭 I’m currently working as ... Founding Engineer at [Segwise](https://segwise.ai).
+- 🚧 I'm currently building ... [Bugzy](https://bugzy.app) with [Tanvesh](https://twitter.com/Sarve___tanvesh) -  A SDK to easily collect bugs, feedbacks and queries in your product!
 - 🌱 I’m currently learning ... How to build a browser
 - 👯 I’m looking to collaborate on ... Anything, Im very cheerful :)
 - 🤔 I’m looking for help with ... SwiftUI
@@ -54,7 +55,7 @@ _**NotsApp**_ - An integration for WhatsApp - Notion, an easy way to add content
 
 | Name      | Link                                              | Description                                                                            | Language | Difficulty |
 |-----------|---------------------------------------------------|----------------------------------------------------------------------------------------|----------|------------|
-| CLIAS | [GitHub] (https://github.com/kush-daga/CLIAS) | A simple CLI tool to quickly add aliases to your zshrc file | Go | Low |
+| CLIAS | [GitHub](https://github.com/kush-daga/CLIAS) | A simple CLI tool to quickly add aliases to your zshrc file | Go | Low |
 | Viberrr | [GitHub](https://github.com/kush-daga/playlist-maker) | A website to allow you to create Playlists based on the event description you want to go to! | T3 Stack, ChatGPT | Low |
 | Crowdd | [GitHub](https://github.com/kush-daga/crowdd) | A website where you can see how many people are at a given place at a time (helps in planning where to go to eat, outing, etc.) | Remix, Vercel, Prisma | Low |
 | GetMe | [GitHub](https://github.com/kush-daga/GetMe) | A small tool to create your own API endpoint, use it for your website or anywhere else! | Remix, PlanetScale, Vercel | Low | 
