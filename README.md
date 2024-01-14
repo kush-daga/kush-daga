@@ -85,7 +85,7 @@ Here are a list of some more small projects that I am planning to do for fun and
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 January 2024 - To: 12 January 2024
+From: 06 January 2024 - To: 13 January 2024
 
 TypeScript       8 hrs 6 mins    ████████████████████▒░░░░   81.41 %
 JavaScript       1 hr 20 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.50 %
