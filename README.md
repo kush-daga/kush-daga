@@ -85,13 +85,13 @@ Here are a list of some more small projects that I am planning to do for fun and
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 January 2024 - To: 13 January 2024
+From: 07 January 2024 - To: 14 January 2024
 
-TypeScript       8 hrs 6 mins    ████████████████████▒░░░░   81.41 %
-JavaScript       1 hr 20 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.50 %
-CSV/TSV          19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
-yarn.lock        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+TypeScript       9 hrs 34 mins   ████████████████████▓░░░░   83.30 %
+JavaScript       1 hr 20 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.70 %
+CSV/TSV          19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+yarn.lock        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+JSON             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 ```
 
 <!--END_SECTION:waka-->
