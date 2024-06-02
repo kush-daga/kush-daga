@@ -85,13 +85,13 @@ Here are a list of some more small projects that I am planning to do for fun and
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 May 2024 - To: 31 May 2024
+From: 25 May 2024 - To: 01 June 2024
 
-TypeScript    16 hrs 8 mins   █████████████████████░░░░   83.68 %
-C#            1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
-JavaScript    44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
-JSON          33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
-Other         30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
+TypeScript    16 hrs 9 mins   █████████████████████▓░░░   87.14 %
+JSON          48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
+JavaScript    44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
+Other         30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
+YAML          16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
 ```
 
 <!--END_SECTION:waka-->
