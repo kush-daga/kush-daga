@@ -85,12 +85,12 @@ Here are a list of some more small projects that I am planning to do for fun and
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 September 2024 - To: 03 October 2024
+From: 27 September 2024 - To: 04 October 2024
 
-TypeScript    24 hrs 11 mins  ████████████████████████▓   98.91 %
-YAML          7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-JavaScript    6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+TypeScript    23 hrs 45 mins  ████████████████████████▓   99.27 %
+YAML          7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 JSON          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Other         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 Image (svg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
