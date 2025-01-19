@@ -85,13 +85,13 @@ Here are a list of some more small projects that I am planning to do for fun and
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 January 2025 - To: 17 January 2025
+From: 11 January 2025 - To: 18 January 2025
 
-TypeScript   16 hrs 59 mins  ██████████████████████░░░   88.63 %
-JavaScript   1 hr 35 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
-Other        18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
-Bash         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
-Go           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+TypeScript   16 hrs 11 mins  ██████████████████████░░░   88.24 %
+JavaScript   1 hr 34 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 %
+Other        18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+Bash         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
