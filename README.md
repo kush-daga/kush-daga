@@ -85,13 +85,13 @@ Here are a list of some more small projects that I am planning to do for fun and
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 April 2025 - To: 10 April 2025
+From: 04 April 2025 - To: 11 April 2025
 
-TypeScript   12 hrs 40 mins  █████████████████████░░░░   83.98 %
-Other        46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
-SQL          35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
-Python       25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
-Markdown     18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+TypeScript   12 hrs 45 mins  ████████████████████▓░░░░   82.77 %
+SQL          1 hr 3 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
+Other        53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
+Python       15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+JSON         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
 ```
 
 <!--END_SECTION:waka-->
