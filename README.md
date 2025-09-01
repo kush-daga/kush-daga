@@ -85,7 +85,7 @@ Here are a list of some more small projects that I am planning to do for fun and
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 August 2025 - To: 30 August 2025
+From: 24 August 2025 - To: 31 August 2025
 
 Go         5 hrs 43 mins   ███████████████▒░░░░░░░░░   61.82 %
 SQL        3 hrs 20 mins   █████████░░░░░░░░░░░░░░░░   36.10 %
