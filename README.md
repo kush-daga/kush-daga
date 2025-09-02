@@ -85,13 +85,13 @@ Here are a list of some more small projects that I am planning to do for fun and
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 August 2025 - To: 31 August 2025
+From: 25 August 2025 - To: 01 September 2025
 
-Go         5 hrs 43 mins   ███████████████▒░░░░░░░░░   61.82 %
-SQL        3 hrs 20 mins   █████████░░░░░░░░░░░░░░░░   36.10 %
-Other      5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
-Markdown   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
-Bash       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Go           4 hrs 8 mins    ███████████████▓░░░░░░░░░   62.23 %
+SQL          2 hrs 19 mins   ████████▓░░░░░░░░░░░░░░░░   34.90 %
+Other        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+Bash         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 ```
 
 <!--END_SECTION:waka-->
