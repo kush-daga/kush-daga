@@ -85,7 +85,7 @@ Here are a list of some more small projects that I am planning to do for fun and
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 October 2025 - To: 07 November 2025
+From: 01 November 2025 - To: 08 November 2025
 
 Python       5 hrs 34 mins   █████████▒░░░░░░░░░░░░░░░   37.16 %
 Go           3 hrs 31 mins   ██████░░░░░░░░░░░░░░░░░░░   23.56 %
