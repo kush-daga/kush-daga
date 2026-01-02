@@ -85,7 +85,7 @@ Here are a list of some more small projects that I am planning to do for fun and
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 December 2025 - To: 31 December 2025
+From: 25 December 2025 - To: 01 January 2026
 
 SQL          34 mins         ██████████████▓░░░░░░░░░░   58.98 %
 Bash         9 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.79 %
