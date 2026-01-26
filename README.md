@@ -85,7 +85,7 @@ Here are a list of some more small projects that I am planning to do for fun and
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 January 2026 - To: 24 January 2026
+From: 18 January 2026 - To: 25 January 2026
 
 Python       1 hr 7 mins     ██████████▓░░░░░░░░░░░░░░   42.26 %
 SQL          38 mins         ██████░░░░░░░░░░░░░░░░░░░   24.38 %
