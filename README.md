@@ -85,7 +85,7 @@ Here are a list of some more small projects that I am planning to do for fun and
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 January 2026 - To: 03 February 2026
+From: 28 January 2026 - To: 04 February 2026
 
 SQL   2 hrs 21 mins   █████████████████████████   100.00 %
 ```
