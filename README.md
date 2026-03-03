@@ -85,11 +85,11 @@ Here are a list of some more small projects that I am planning to do for fun and
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 February 2026 - To: 01 March 2026
+From: 23 February 2026 - To: 02 March 2026
 
-SQL    1 hr 58 mins          ████████████████████▒░░░░   81.89 %
-CSV    24 mins               ████▒░░░░░░░░░░░░░░░░░░░░   16.72 %
-JSON   2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+SQL    1 hr 32 mins          ███████████████████▒░░░░░   77.85 %
+CSV    24 mins               █████░░░░░░░░░░░░░░░░░░░░   20.45 %
+JSON   2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
 ```
 
 <!--END_SECTION:waka-->
