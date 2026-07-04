@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is [Kush Daga](https://kushdaga.webflow.io), also known as [dev_kid](https://instagram.com/dev_kid). I'm a full stack web developer with interest in fields like 3D animation and gaming, Blockchain, Finance, Design and animation. I'm proud to say that **I can succesfully center an element using css.** I am good with animations and creative processes that make the journey a lot more fun.
+My name is [Kush Daga](https://kushdaga.webflow.io), also known as [dev_kid](https://instagram.com/dev_kid). 
 
 ![](https://komarev.com/ghpvc/?username=kush-daga&style=flat-square&color=red)
 <br></br>
@@ -19,8 +19,8 @@ My name is [Kush Daga](https://kushdaga.webflow.io), also known as [dev_kid](htt
 ## My Work
 I have mostly worked with Frontend technologies, like React, NextJS and Svelte (still learning) using mainly typescript as my first language of choice, most of my work revolves around this domain :)
 
-### Current Work:
-_**Fampay (Current Focus)**_ - Joined Fampay as a Full-Time Frontend Developer, working on thier web view flows inside Native applications used by 5mn+ users. Working with React, React-Query, Styled Components.
+### Prev. Work:
+_**Fampay**_ - Joined Fampay as a Full-Time Frontend Developer, working on thier web view flows inside Native applications used by 5mn+ users. Working with React, React-Query, Styled Components.
 
 ### Templates that I made:
  - [NextJs, Prisma, GiraphQL, Apollo, GrpahQL Helix - Full Stack template to get started with web applications](https://github.com/kush-daga/Next-Prisma-GraphQL-Template)
