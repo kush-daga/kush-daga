@@ -85,13 +85,13 @@ Here are a list of some more small projects that I am planning to do for fun and
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 July 2026 - To: 26 July 2026
+From: 20 July 2026 - To: 27 July 2026
 
-Markdown     2 hrs 35 mins         ███████▓░░░░░░░░░░░░░░░░░   30.62 %
-TypeScript   2 hrs 9 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.61 %
-HTML         1 hr 33 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.50 %
-Python       1 hr 31 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.99 %
-SQL          21 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
+Markdown     1 hr 3 mins           ████████▓░░░░░░░░░░░░░░░░   34.97 %
+TypeScript   43 mins               ██████░░░░░░░░░░░░░░░░░░░   24.05 %
+Python       40 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.50 %
+HTML         21 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.86 %
+SQL          6 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
 ```
 
 <!--END_SECTION:waka-->
