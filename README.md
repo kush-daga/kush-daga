@@ -85,7 +85,7 @@ Here are a list of some more small projects that I am planning to do for fun and
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 July 2026 - To: 07 August 2026
+From: 01 August 2026 - To: 08 August 2026
 
 TypeScript   10 hrs 14 mins        ██████████░░░░░░░░░░░░░░░   39.86 %
 Markdown     4 hrs 4 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.88 %
