@@ -79,19 +79,3 @@ _**NotsApp**_ - An integration for WhatsApp - Notion, an easy way to add content
 
 Here are a list of some more small projects that I am planning to do for fun and to keep my knowledge up to date (some are done and urls are included in it) - [Personal Projects List](https://www.notion.so/kushdaga/Personal-Projects-d77b23ce860740ba9f50ed2f126b45ea) 
 
-
-
-### My WakaTime Stats for this Week!
-<!--START_SECTION:waka-->
-
-```txt
-From: 10 August 2026 - To: 17 August 2026
-
-Python       7 hrs 31 mins         ████████░░░░░░░░░░░░░░░░░   32.29 %
-TypeScript   4 hrs 47 mins         █████░░░░░░░░░░░░░░░░░░░░   20.55 %
-Markdown     3 hrs 45 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.13 %
-Bash         1 hr 57 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
-HTML         1 hr 31 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
-```
-
-<!--END_SECTION:waka-->
