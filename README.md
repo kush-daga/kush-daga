@@ -7,7 +7,7 @@ My name is [Kush Daga](https://kushdaga.webflow.io), also known as [dev_kid](htt
 ## More about me:
 
 - 🔭 I’m currently working as ... Founding Engineer at [Segwise](https://segwise.ai) (3 years)
-- 🚧 I'm currently building ... a small suite of iOS apps with friends: [Stepgate](https://apps.apple.com/us/app/stepgate-screen-time-control/id6789857070) (live on the App Store!), Clink (a party card game, in review) and World Radio (listen to any radio in the world, in review)
+- 🚧 I'm currently building ... a small suite of iOS apps with friends: [Stepgate](https://apps.apple.com/us/app/stepgate-screen-time-control/id6789857070) (live on the App Store!)
 - 🌱 I’m currently learning ... how to make apps make money :)
 - 👯 I’m looking to collaborate on ... Anything, Im very cheerful :)
 - 💬 Ask me about ... React is my forte, but ask me about anything, if I dont know, Ill search for it with you!
