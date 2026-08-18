@@ -3,24 +3,40 @@ My name is [Kush Daga](https://kushdaga.webflow.io), also known as [dev_kid](htt
 
 ![](https://komarev.com/ghpvc/?username=kush-daga&style=flat-square&color=red)
 <br></br>
+
 ## More about me:
 
-- 🔭 I’m currently working as ... Founding Engineer at [Segwise](https://segwise.ai).
-- 🚧 I'm currently building ... [Bugzy](https://bugzy.app) and [Shundo](https://shundo.app/) with [Tanvesh](https://twitter.com/Sarve___tanvesh) -  A SDK to easily collect bugs, feedbacks and queries in your product!
-- 🌱 I’m currently learning ... How to build a browser
+- 🔭 I’m currently working as ... Founding Engineer at [Segwise](https://segwise.ai) (3 years)
+- 🚧 I'm currently building ... a small suite of iOS apps with friends: [Stepgate](https://apps.apple.com/us/app/stepgate-screen-time-control/id6789857070) (live on the App Store!), Clink (a party card game, in review) and World Radio (listen to any radio in the world, in review)
+- 🌱 I’m currently learning ... how to make apps make money :)
 - 👯 I’m looking to collaborate on ... Anything, Im very cheerful :)
-- 🤔 I’m looking for help with ... SwiftUI
-- 💬 Ask me about ... React is my forte, but ask me about anything, if I dont know, Ill search for it with you! 
-- 📫 How to reach me: ... kushdaga@icloud.com
+- 💬 Ask me about ... React is my forte, but ask me about anything, if I dont know, Ill search for it with you!
+- 📫 How to reach me: ... kushdaga1494@gmail.com
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... Did you know about the array.some() method in Js ? :)
+
 
 
 ## My Work
-I have mostly worked with Frontend technologies, like React, NextJS and Svelte (still learning) using mainly typescript as my first language of choice, most of my work revolves around this domain :)
+I started out as a frontend engineer (React, NextJS, TypeScript), but over the last few years I've ended up building across the whole stack: pipelines, agents, internal tools, and iOS apps on the side
+
+### Currently: Segwise (Founding Engineer, 3 years)
+Founding team member at [Segwise](https://segwise.ai), an AI creative analytics startup for mobile marketing teams. Things I've built here:
+ 
+- **Creative Generation Agents** - AI agents that read a customer's ad performance data, figure out what's working, and generate new ad creatives.
+- **Chat** - Our most used feature, helped build it end to end from agent loops, to tools, to frontend.
+- **Playable tagging agent** - an agent that plays through customers' playable ads and figures out what works in them. v1 was my own  computer-use loop (screenshot, LLM, next action, repeat) before it became famous.
+- **Creative processing pipeline** - pulls ads from ad networks, tags them with AI, stores metrics in ClickHouse and Postgres.
+- **Customer success tool** - internal dashboard so our CS team can debug runs and replay sessions without waiting on engineers.
+- Plus the company website, analytics dashboards, and our Slack alerts service, through two pivots.
 
 ### Prev. Work:
-_**Fampay**_ - Joined Fampay as a Full-Time Frontend Developer, working on thier web view flows inside Native applications used by 5mn+ users. Working with React, React-Query, Styled Components.
+_**Fampay (Full-Time Frontend Engineer)**_ - Worked on India's largest payments app for teenagers. Launched **DigiGold**, live to 2M+ users. Built and maintained an internal **server-driven UI tool** to ship new mobile screens and components to the live app without an app release, with maker-checker approvals. Managed one engineer. Working with React, React-Query, Styled Components inside native webviews.
+ 
+### Ideas I'm building next:
+_**HTML Share Tool**_ - A place for agents to host HTML files: share with your team, let others comment on them, and edit with an AI-native HTML editor instead of markdown. Think Claude artifacts, but shareable and collaborative, across any model / tool.
+ 
+_**Reminders++**_ - A reminder app with much smarter trigger cues: location-based, CarPlay-based, people-based. "Remind me when I go home next to keep my shoes." "Remind me in my next meet with ABC to say XYZ." "Remind me when I exit my car to take the water bottle."
+
 
 ### Templates that I made:
  - [NextJs, Prisma, GiraphQL, Apollo, GrpahQL Helix - Full Stack template to get started with web applications](https://github.com/kush-daga/Next-Prisma-GraphQL-Template)
