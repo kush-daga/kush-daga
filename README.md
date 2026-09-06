@@ -33,7 +33,7 @@ Founding team member at [Segwise](https://segwise.ai), an AI creative analytics 
 _**Fampay (Full-Time Frontend Engineer)**_ - Worked on India's largest payments app for teenagers. Launched **DigiGold**, live to 2M+ users. Built and maintained an internal **server-driven UI tool** to ship new mobile screens and components to the live app without an app release, with maker-checker approvals. Managed one engineer. Working with React, React-Query, Styled Components inside native webviews.
  
 ### Ideas I'm building next:
-_**HTML Share Tool**_ - A place for agents to host HTML files: share with your team, let others comment on them, and edit with an AI-native HTML editor instead of markdown. Think Claude artifacts, but shareable and collaborative, across any model / tool.
+_**HTML Share Tool**_ - [TossItHere](https://tossithere.com) A place for agents to host HTML files: share with your team, let others comment on them, and edit with an AI-native HTML editor instead of markdown. Think Claude artifacts, but shareable and collaborative, across any model / tool.
  
 _**Reminders++**_ - A reminder app with much smarter trigger cues: location-based, CarPlay-based, people-based. "Remind me when I go home next to keep my shoes." "Remind me in my next meet with ABC to say XYZ." "Remind me when I exit my car to take the water bottle."
 
