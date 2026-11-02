@@ -18,17 +18,15 @@ My name is [Kush Daga](https://kushdaga.webflow.io), also known as [dev_kid](htt
 ## My Work
 I started out as a frontend engineer (React, NextJS, TypeScript), but over the last few years I've ended up building across the whole stack: pipelines, agents, internal tools, and iOS apps on the side
 
-### Currently: Segwise (Founding Engineer, 3 years)
-Founding team member at [Segwise](https://segwise.ai), an AI creative analytics startup for mobile marketing teams. Things I've built here:
- 
-- **Creative Generation Agents** - AI agents that read a customer's ad performance data, figure out what's working, and generate new ad creatives.
-- **Chat** - Our most used feature, helped build it end to end from agent loops, to tools, to frontend.
-- **Playable tagging agent** - an agent that plays through customers' playable ads and figures out what works in them. v1 was my own  computer-use loop (screenshot, LLM, next action, repeat) before it became famous.
-- **Creative processing pipeline** - pulls ads from ad networks, tags them with AI, stores metrics in ClickHouse and Postgres.
-- **Customer success tool** - internal dashboard so our CS team can debug runs and replay sessions without waiting on engineers.
-- Plus the company website, analytics dashboards, and our Slack alerts service, through two pivots.
-
 ### Prev. Work:
+_**[Segwise](https://segwise.ai) (Founding team member at)**_   an AI creative analytics startup for mobile marketing teams. Things I've built here:
+ - **Creative Generation Agents** - AI agents that read a customer's ad performance data, figure out what's working, and generate new ad creatives.
+ - **Chat** - Our most used feature, helped build it end to end from agent loops, to tools, to frontend.
+ - **Playable tagging agent** - an agent that plays through customers' playable ads and figures out what works in them. v1 was my own  computer-use loop (screenshot, LLM, next action, repeat) before it became famous.
+ - **Creative processing pipeline** - pulls ads from ad networks, tags them with AI, stores metrics in ClickHouse and Postgres.
+ - **Customer success tool** - internal dashboard so our CS team can debug runs and replay sessions without waiting on engineers.
+ - Plus the company website, analytics dashboards, and our Slack alerts service, through two pivots.
+
 _**Fampay (Full-Time Frontend Engineer)**_ - Worked on India's largest payments app for teenagers. Launched **DigiGold**, live to 2M+ users. Built and maintained an internal **server-driven UI tool** to ship new mobile screens and components to the live app without an app release, with maker-checker approvals. Managed one engineer. Working with React, React-Query, Styled Components inside native webviews.
  
 ### Ideas I'm building next:
